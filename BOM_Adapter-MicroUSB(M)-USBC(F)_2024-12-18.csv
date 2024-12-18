@@ -1,0 +1,4 @@
+ID,Name,Designator,Footprint,Quantity,Pins,Supplier,Supplier Part,Contributor,link
+1,5.1k,"R1,R2",R0603,2,2,LCSC,C23186,layout,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF5101T5E_C23186.html
+2,Korean Hroparts Elec U-G-M5WS-W-01,MICROUSB,KOREAN HROPARTS ELEC U-G-M5WS-W-01,1,7,LCSC,C283546,Ziemniaczenka,https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-U-G-M5WS-W-01_C283546.html
+3,TYPE-C-31-M-14,C-MICRO,USB-C-SMD_12P-P0.50-H-F_TYPE-C-31-M-14,1,16,LCSC,C223907,jiaowoxiaolu,https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-14_C223907.html
